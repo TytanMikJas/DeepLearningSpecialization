@@ -1,2 +1,2 @@
 # DeepLearningSpecialization
-A repo for publishing my progress on the Deep Learning Specialization
+https://www.coursera.org/account/accomplishments/specialization/JNFGGMJEQ3RD
